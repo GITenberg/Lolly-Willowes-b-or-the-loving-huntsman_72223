@@ -1,0 +1,41 @@
+_repo: Lolly-Willowes-b-or-the-loving-huntsman_72223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Sylvia Townsend
+    aliases:
+    - Warner, S. Townsend
+    - Townsend Warner, Sylvia
+    birthdate: 1893
+    deathdate: 1978
+    gutenberg_agent_id: '56599'
+    url: http://www.gutenberg.org/2009/agents/56599
+    wikipedia: https://en.wikipedia.org/wiki/Sylvia_Townsend_Warner
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Lolly_Willowes'
+gutenberg_issued: '2023-11-25'
+identifiers:
+  gutenberg: '72223'
+language: en
+pgterms:marc904: https://archive.org/details/dli.ernet.13663/page/n5/mode/2up
+pgterms:marc905: 20230101070846warner
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bChatto & Windus, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Feminist fiction'
+- !lcsh 'Sex role -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Single women -- England -- Social conditions -- Fiction'
+- !lcsh 'Witches -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Lolly Willowes : $b or, the loving huntsman'
+url: http://www.gutenberg.org/ebooks/72223
