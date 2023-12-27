@@ -1,5 +1,8 @@
 _repo: Lolly-Willowes-b-or-the-loving-huntsman_72223
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72223-h/images/cover.jpg
 creator:
   author:
     agent_name: Warner, Sylvia Townsend
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56599
     wikipedia: https://en.wikipedia.org/wiki/Sylvia_Townsend_Warner
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Lolly_Willowes'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72223#Lolly-Willowes-b-or-the-loving-huntsman
 gutenberg_issued: '2023-11-25'
 identifiers:
   gutenberg: '72223'
